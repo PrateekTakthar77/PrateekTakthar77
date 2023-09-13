@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateek Takthar</h1>
-<h3 align="center">self-taught programmer 👨🏻‍💻</h3>
+<h3 align="center">self-taught Full-stack Developer 👨🏻‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateektakthar77&label=Profile%20views&color=0e75b6&style=flat" alt="prateektakthar77" /> </p>
 
